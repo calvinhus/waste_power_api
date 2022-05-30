@@ -20,4 +20,4 @@ def get_companies(
                       Can be one of the following: [texteis, couro, papel, borracha, metal]",
     )
 ):
-    return [(company["Nome"], company["Atividade"]) for company in companies[activity]]
+    return [(company["Nome"], company["Atividade"], company["url"], company["Distrito"], company["Morada"]) for company in companies[activity]]
