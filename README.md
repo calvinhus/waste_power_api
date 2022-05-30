@@ -8,4 +8,4 @@ Here you can create posts with information on what materials you want to be disp
 Then any user is able to search and filter by what they are interested in and make contact with the corresponding companies.
 
 
-> **Note:** Along with the platform we also built and deployed an API with FastAPI which is deployed [here](https://1zv8ev.deta.dev/).
+> **Note:** Along with the platform we also built and deployed an API with FastAPI which is deployed [here](https://z5kmfo.deta.dev/docs).
